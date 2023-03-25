@@ -1,0 +1,17 @@
+---
+title: "Vááarias apresentações no 3 R-day"
+author: "Carolina Musso"
+date: "2021-09-09"
+categories: [Apresentações, SUS]
+image: r-day-3-logo.png
+---
+
+O 3º R-day ocorreu dia 9 de setembro de 2021. Foi um encontro virtual promovido pelo Laboratório de Estatística e GeoInformação da UFPF. Segundo o próprio site do evento:
+
+*"O R Day foi o primeiro evento no Brasil endossado oficialmente pela [The R Foundation](https://www.r-project.org/foundation). A [primeira edição](http://rday.leg.ufpr.br/rday2018/) ocorreu no dia 22 de maio de 2018, no Centro Politécnico da Universidade Federal do Paraná (UFPR), como um evento satélite da [63ª RBRAS](http://www.rbras.org.br/rbras63) (Reunião anual da Região Brasileira da Sociedade Internacional de Biometria). Um resumo sobre o evento foi inclusive publicado no [The R Journal](https://journal.r-project.org/archive/2018-1/rday.pdf), em julho de 2018. A [segunda edição](http://rday.leg.ufpr.br/rday2019/) ocorreu no dia 13 de dezembro de 2019, também no Centro Politécnico da UFPR."*
+
+Eu tive o prazer de participar do evento de nada mais nada menos do que 3 apresentações:
+
+[Cadê o email que estava aqui?](https://www.youtube.com/live/gB9f0wmdth8?feature=share) - Contando a Experiência de automatização de envio de e-mails no CIEVS-DF.
+
+[Completitude](https://www.youtube.com/live/NuIOtZNbieY?feature=share)

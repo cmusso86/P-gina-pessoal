@@ -1,0 +1,22 @@
+---
+title: "Boletim Covid-19, CIEVS-DF"
+author: "Carolina Musso"
+date: "2023-03-21"
+categories: [Análises, SUS]
+---
+
+Esse post vai explicar um pouquinho como foi a automatização do Boletim Diário da covid-19 no Distrito Federal, e como esse processo foi um divisor de água não só para o serviço, mas para a minha carreira.
+
+![](thumbnail.jpg){width="247"}
+
+O Boletim ainda é publicado diariamente e está disponível em no Site da [Secretaria de Saúde](https://www.saude.df.gov.br/boletinsinformativos-divep-cieves). 
+
+Desde o início de 2020, o CIEVS DF foi o responsável por publicar esse boletim diário. O Cievs realizava diariamente diversas atividades no contexto da pandemia de covid-19: confecção de boletins de casos e óbitos,  envio de bancos consolidados para as Regiões de Saúde, curadoria do banco de notificações, dentre outras. Esses processos eram atrelados ao uso de planilhas, como Excel, que possui baixa capacidade de processar grande volume de dados e de automatização, sendo mais propensa a erros.
+
+Eu fui conviada a trabalhar no CIEVS-DF, por ter experiência com R e Rmarkdown. O objetivo ofi otimizar os processos de análises básicas dos padrões epidemiológicos da covid-19 no DF por meio da automatização do Boletim Epidemiológico e Resumos diários de Óbitos, da organização e envio diário por e-mail às unidades de vigilância e da análise da qualidade do banco de dados consolidado.
+
+O processo de automação foi realizado com o Software R (versão 4.0.5), com o IDE RStudio (versão 1.4.1106). Os principais pacotes usados neste processo foram odbc / DBI , tidyverse (manipulação e visualização de dados,) kableExtra (formatação de tabela), blastula (confecção de e-mails), qdapRegex (manipulação de expressões regulares), EpiEstim  Taxa de Transmissão), geobr e sf (confecção do mapa de incidência) e rmarkdown (formatação do documento final).
+
+A consolidação de  dados por região de saúde e envio automático dos e-mails foi implementada dia 20 de agosto. a análise de qualidade é feita periodicamente. Os técnicos de saúde agora usam um único software, e cada análise demora atualmente no máximo 5 minutos,  o que resultou na economia de mais de 40 horas semanais de trabalho. 
+
+A linguagem R se provou uma opção eficaz para apoiar as decisões governamentais em relação à pandemia de covid-19 por produzir informações relevantes e em tempo oportuno. Essa ação contribuiu para a qualidade da rotina de trabalho, incluindo melhorias na reprodutibilidade, na alocação de recursos humanos, na redução de erros e do desgaste das equipes. Recomendamos priorização de ferramentas como essa pelos gestores de saúde, considerando o seu potencial no fortalecimento dos sistemas de vigilância.

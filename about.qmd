@@ -1,0 +1,29 @@
+---
+title: "Sobre mim"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carolina-musso-29b627128/
+    - icon: envelope
+      text: Email
+      href: cmusso86@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/cmusso86
+    - icon: person-lines-fill
+      text: CV - lattes
+      href: https://lattes.cnpq.br/5950109359484071
+---
+
+Olá! Eu sou a Carolina, mas todos me chamam de Carol, menos os meus avós. Então se você não um ancentral meu, pode me chamar de Carol também. Nesse blog pretendo partilhar coisas interessantes que já fiz ou pretendo fazer que envolvam a linguagem R e o RStudio.
+
+Sou Bióloga e em breve (se tudo der certo) também Estatística, ambos na Universidade de Brasíla (UnB). Sou apaixonada por R desde que descobri que era muito mais que uma letra do alfabeto, lá no início do século XXI. Depois, o R também me acompanhou no doutorado na Universidade de Aveiro em Portugal (2010) e no PosDoc na UnB (2015) para todas minhas análises estatística e visualizações. Nessa época, eu trabalhava com Ecologia do Fogo. Isso mesmo, fogo.
+
+Só por volta de 2018 comecei a usar o RStudio, bem quando também iniciei uma segunda graduação, desta vez em Estatística. Esse novo contato me deixou ainda mais apaixonada pela linguagem, por análise de dados em geral além de todas as outras funcionalidades que essa IDE proporciona. Desde esse ano, não tabalho mais na área de Ecologia, mas sim de Epidemiologia (áreas essas que têm até bastante coisa em comum, além de começar com "E" e terminar com "logia". No entanto, não tem a parte do fogo, uma pena).
+
+Trabalho na Secretaria de Saúde do Distrito Federal e colaboro no Ministério da Saúde e no Departamento de Saúde Coletiva da UnB com análises estatísticas mas principalmente com automatização de relatórios (inicialmente em RMarkdown, mas agora em Quarto) e com o ensino de R para profissionais (ou futuros profissionais) da área de vigilância em saúde.
+
+Espero que encontre coisas úteis para você aqui!

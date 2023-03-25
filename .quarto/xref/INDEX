@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "7d177278"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "07f56295"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "612cd582"
+  },
+  "about.qmd": {
+    "about.html": "1d36365e"
+  },
+  "posts/latinr/index.qmd": {
+    "index.html": "032dcd81"
+  },
+  "posts/latinR/index.qmd": {
+    "index.html": "d7b24268"
+  },
+  "posts/Expocievis/index.qmd": {
+    "index.html": "1acfe945"
+  },
+  "posts/Boletim_covid/index.qmd": {
+    "index.html": "4b54e089"
+  },
+  "posts/R - day /index.qmd": {
+    "index.html": "1e52eb6a"
+  }
+}

@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 31ffc974-9e5a-4dff-b578-1a5d53310892
+      url: 'https://quartopub.com/sites/carolina-musso/página-pessoal'
+    - id: ccc9ba8b-9023-476a-85b6-d369b48f24dc
+      url: 'https://quartopub.com/sites/carolina-musso/blog_pessoal'

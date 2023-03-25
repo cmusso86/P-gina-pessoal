@@ -1,0 +1,41 @@
+---
+title: "Apresentação no Latin-R 2022"
+author: "Carolina Musso"
+date: "2022-03-24"
+categories: [Apresentações]
+image: "image.jpg"
+---
+
+Ano passado tive o prazer de participar do Latin-R! A apresentação está disponível no [YouTube](https://youtu.be/6PILgf_1ZOI).
+
+[![](image.jpg){fig-align="center" width="254"}](https://youtu.be/6PILgf_1ZOI)
+
+Nessa apresentação eu fiz um relato do ensino do R para profissionais da área de vigilância em saúde. Foi um curso ministrado para técnicos do Ministério da Saúde e da Secretaria de saúde do DF. O curso foi intiulado R de trás-pra-frene. A ideia do curso era apresentar o R de uma forma mais motivadora para pessoas que já estão lidando com o dia-a-dia do serviço em saúde.
+
+O curso foi divido nos módulos:
+
+1\) Como rodar aquele código que alguém fez pra mim.
+
+2\) Mas é que eu queria esse gráfico de outra cor.
+
+3\) As vezes devemos dar um passo para trás antes de continuar para frente
+
+4\) Nada se cria, tudo se transforma.
+
+5\) Servidor público adora tabela.
+
+6\) Tópicos avançados: O mapa do tesouro.
+
+7\) Tudo Junto e Misturado.
+
+## Bibliografia Principal
+
+-   [The Epi-R Handbook](%3Chttps://epirhandbook.com/en/%3E)
+
+-   [R4DS](%3Chttps://r4ds.had.co.nz/data-visualisation.html%3E)
+
+-   [Curso-R](%3Chttps://livro.curso-r.com%3E)
+
+## Slides
+
+Disponíveis [aqui](https://cmusso86.github.io/LatinR/)
